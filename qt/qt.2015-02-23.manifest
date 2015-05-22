@@ -9,7 +9,7 @@
     "download": "http://qt.io/download",
     "api_docs": "http://doc.qt.io/qt-5/index.html",
     "tutorial": "http://doc.qt.io/qt-5/qtexamplesandtutorials.html",
-    "vcs": "http://code.qt.io/cgit/"
+    "vcs": "http://code.qt.io/cgit/qt/qt5.git/"
   },
   "licenses": [
     "GPLv3",
