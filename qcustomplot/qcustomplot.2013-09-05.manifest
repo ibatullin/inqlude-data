@@ -6,7 +6,7 @@
   "summary": "Plotting widget",
   "urls": {
     "homepage": "http://www.qcustomplot.com/index.php/introduction",
-    "vcs": "https://gitorious.org/qcustomplot/",
+    "vcs": "https://gitlab.com/DerManu/QCustomPlot.git",
     "api_docs": "http://www.qcustomplot.com/documentation/index.html",
     "tutorial": "http://www.qcustomplot.com/index.php/tutorials/basicplotting",
     "custom": {

@@ -23,6 +23,6 @@
     "OS X"
   ],
   "packages": {
-    "source": "https://gitorious.org/cutelyst/cutelyst/archive/c77510285823c87b20726e40cda1ec7247d91966.tar.gz"
+    "source": "https://gitlab.com/cutelyst/cutelyst/repository/archive.tar.gz?ref=r0.8.0"
   }
 }

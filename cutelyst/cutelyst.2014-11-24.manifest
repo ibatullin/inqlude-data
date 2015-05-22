@@ -6,7 +6,7 @@
   "summary": "A Web Framework, using the simple approach of Catalyst (Perl) framework.",
   "urls": {
     "homepage": "http://cutelyst.org/",
-    "vcs": "https://gitorious.org/cutelyst/cutelyst.git",
+    "vcs": "https://gitlab.com/cutelyst/cutelyst.git",
     "api_docs": "http://api.cutelyst.org/"
   },
   "licenses": [
@@ -23,6 +23,6 @@
     "OS X"
   ],
   "packages": {
-    "source": "https://gitorious.org/cutelyst/cutelyst/archive/c77510285823c87b20726e40cda1ec7247d91966.tar.gz"
+    "source": "https://gitlab.com/cutelyst/cutelyst/repository/archive.tar.gz?ref=r0.5.0"
   }
 }

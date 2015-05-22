@@ -9,7 +9,7 @@
     "download": "http://qt-project.org/downloads",
     "api_docs": "http://qt-project.org/doc/qt-5.1/qtdoc/index.html",
     "tutorial": "http://qt-project.org/doc/qt-5.1/qtdoc/qtexamplesandtutorials.html",
-    "vcs": "http://qt.gitorious.org/qt"
+    "vcs": "http://code.qt.io/cgit/qt/qt5.git/"
   },
   "licenses": [
     "GPLv3",
