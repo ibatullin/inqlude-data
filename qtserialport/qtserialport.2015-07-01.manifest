@@ -1,0 +1,32 @@
+{
+  "$schema": "http://inqlude.org/schema/release-manifest-v1#",
+  "name": "qtserialport",
+  "version": "5.5",
+  "release_date": "2015-07-01"
+  "summary": "Qt Serial Port support",
+  "urls": {
+    "homepage": "http://doc.qt.io/qt-5/qtserialport-index.html",
+    "vcs": "http://code.qt.io/qt/qtserialport.git"
+  },
+  "licenses": [
+    "GPLv3",
+    "LGPLv2.1+",
+    "Commercial"
+  ],
+  "description": "Qt Serial Port provides the basic functionality, which includes configuring, I/O operations, getting and setting the control signals of the RS-232 pinouts.",
+  "maturity": "stable",
+  "authors": [
+    "Denis Shienkov <denis.shienkov@gmail.com>",
+    "Sergey Belyashov <Sergey.Belyashov@gmail.com>",
+    "Laszlo Papp <lpapp@kde.org>",
+    "The Qt Company"
+  ],
+  "platforms": [
+    "Linux",
+    "Windows",
+    "MacOS"
+  ],
+  "packages": {
+    "source": "http://download.qt.io/official_releases/qt/5.5/5.5.0/submodules/qtserialport-opensource-src-5.5.0.tar.gz",
+  }
+}
